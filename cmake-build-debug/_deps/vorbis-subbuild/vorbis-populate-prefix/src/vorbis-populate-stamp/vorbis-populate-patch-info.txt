@@ -2,5 +2,5 @@
 # The update step will be re-executed if anything in this file changes.
 # No other meaning or use of this file is supported.
 
-command=/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/bin/cmake;-DVORBIS_DIR=/Users/patrykzinowkin/Desktop/projekt_rendezvous/cmake-build-debug/_deps/vorbis-src;-P;/Users/patrykzinowkin/Desktop/projekt_rendezvous/cmake-build-debug/_deps/sfml-src/tools/vorbis/PatchVorbis.cmake
-work_dir=/Users/patrykzinowkin/Desktop/projekt_rendezvous/cmake-build-debug/_deps/vorbis-src
+command=C:/Program Files/JetBrains/CLion 2025.2.3/bin/cmake/win/x64/bin/cmake.exe;-DVORBIS_DIR=C:/Users/patry/Desktop/Projekt randezvous/Projekt_randezvous/cmake-build-debug/_deps/vorbis-src;-P;C:/Users/patry/Desktop/Projekt randezvous/Projekt_randezvous/cmake-build-debug/_deps/sfml-src/tools/vorbis/PatchVorbis.cmake
+work_dir=C:/Users/patry/Desktop/Projekt randezvous/Projekt_randezvous/cmake-build-debug/_deps/vorbis-src

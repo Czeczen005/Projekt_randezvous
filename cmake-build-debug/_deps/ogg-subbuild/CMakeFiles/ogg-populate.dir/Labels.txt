@@ -1,14 +1,14 @@
 # Target labels
  ogg-populate
 # Source files and their labels
-/Users/patrykzinowkin/Desktop/projekt_rendezvous/cmake-build-debug/_deps/ogg-subbuild/CMakeFiles/ogg-populate
-/Users/patrykzinowkin/Desktop/projekt_rendezvous/cmake-build-debug/_deps/ogg-subbuild/CMakeFiles/ogg-populate.rule
-/Users/patrykzinowkin/Desktop/projekt_rendezvous/cmake-build-debug/_deps/ogg-subbuild/CMakeFiles/ogg-populate-complete.rule
-/Users/patrykzinowkin/Desktop/projekt_rendezvous/cmake-build-debug/_deps/ogg-subbuild/ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-build.rule
-/Users/patrykzinowkin/Desktop/projekt_rendezvous/cmake-build-debug/_deps/ogg-subbuild/ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-configure.rule
-/Users/patrykzinowkin/Desktop/projekt_rendezvous/cmake-build-debug/_deps/ogg-subbuild/ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-download.rule
-/Users/patrykzinowkin/Desktop/projekt_rendezvous/cmake-build-debug/_deps/ogg-subbuild/ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-install.rule
-/Users/patrykzinowkin/Desktop/projekt_rendezvous/cmake-build-debug/_deps/ogg-subbuild/ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-mkdir.rule
-/Users/patrykzinowkin/Desktop/projekt_rendezvous/cmake-build-debug/_deps/ogg-subbuild/ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-patch.rule
-/Users/patrykzinowkin/Desktop/projekt_rendezvous/cmake-build-debug/_deps/ogg-subbuild/ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-test.rule
-/Users/patrykzinowkin/Desktop/projekt_rendezvous/cmake-build-debug/_deps/ogg-subbuild/ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-update.rule
+C:/Users/patry/Desktop/Projekt randezvous/Projekt_randezvous/cmake-build-debug/_deps/ogg-subbuild/CMakeFiles/ogg-populate
+C:/Users/patry/Desktop/Projekt randezvous/Projekt_randezvous/cmake-build-debug/_deps/ogg-subbuild/CMakeFiles/ogg-populate.rule
+C:/Users/patry/Desktop/Projekt randezvous/Projekt_randezvous/cmake-build-debug/_deps/ogg-subbuild/CMakeFiles/ogg-populate-complete.rule
+C:/Users/patry/Desktop/Projekt randezvous/Projekt_randezvous/cmake-build-debug/_deps/ogg-subbuild/ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-build.rule
+C:/Users/patry/Desktop/Projekt randezvous/Projekt_randezvous/cmake-build-debug/_deps/ogg-subbuild/ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-configure.rule
+C:/Users/patry/Desktop/Projekt randezvous/Projekt_randezvous/cmake-build-debug/_deps/ogg-subbuild/ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-download.rule
+C:/Users/patry/Desktop/Projekt randezvous/Projekt_randezvous/cmake-build-debug/_deps/ogg-subbuild/ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-install.rule
+C:/Users/patry/Desktop/Projekt randezvous/Projekt_randezvous/cmake-build-debug/_deps/ogg-subbuild/ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-mkdir.rule
+C:/Users/patry/Desktop/Projekt randezvous/Projekt_randezvous/cmake-build-debug/_deps/ogg-subbuild/ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-patch.rule
+C:/Users/patry/Desktop/Projekt randezvous/Projekt_randezvous/cmake-build-debug/_deps/ogg-subbuild/ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-test.rule
+C:/Users/patry/Desktop/Projekt randezvous/Projekt_randezvous/cmake-build-debug/_deps/ogg-subbuild/ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-update.rule

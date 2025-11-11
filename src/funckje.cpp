@@ -44,8 +44,8 @@ void create_map(vector<Vertex_>&  vertex, vector<RectangleShape>& kwadraty, vect
     vector<int> wierz; vector<float> x, y;
     vector<vector<int>> sasiad;
     Load_data(wierz, x, y, sasiad);
-
     for (int i = 0; i < wierz.size(); i++) {
+        cout << wierz[i] << endl;
         Vertex_ w(x[i], y[i],wierz[i] ,sasiad[i]);
         vertex.push_back(w);
     }

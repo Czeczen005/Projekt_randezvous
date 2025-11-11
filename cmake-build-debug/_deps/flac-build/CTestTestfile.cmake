@@ -1,6 +1,6 @@
 # CMake generated Testfile for 
-# Source directory: /Users/patrykzinowkin/Desktop/projekt_rendezvous/cmake-build-debug/_deps/flac-src
-# Build directory: /Users/patrykzinowkin/Desktop/projekt_rendezvous/cmake-build-debug/_deps/flac-build
+# Source directory: C:/Users/patry/Desktop/Projekt randezvous/Projekt_randezvous/cmake-build-debug/_deps/flac-src
+# Build directory: C:/Users/patry/Desktop/Projekt randezvous/Projekt_randezvous/cmake-build-debug/_deps/flac-build
 # 
 # This file includes the relevant testing commands required for 
 # testing this directory and lists subdirectories to be tested as well.

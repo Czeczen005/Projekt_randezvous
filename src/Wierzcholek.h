@@ -15,6 +15,7 @@ class Vertex_ {
     float x;
     float y;
     vector<int> neighbour;
+    bool blocked = false;
     int id;
 public:
     Vertex_(float _x, float _y, int _id, const vector<int>& _neighbour): x(_x), y(_y),id(_id) ,neighbour(_neighbour){};
@@ -23,9 +24,17 @@ public:
     void setX(float _x){x = _x;}
     void setY(float _y){y = _y;}
     void addNeighbour(int _next) {neighbour.push_back(_next);}
+    bool getBlocked() {return blocked;}
+    void setBlocked(bool _b) {blocked = _b;}
     float getX(){return x;}
     float getY(){return y;}
     int getID(){return id;}
+    bool isNeighbour(int _id)const {
+        for (int i : neighbour) {
+            if (_id == i) return true;
+        }
+        return false;
+    }
     const vector<int>& getNeighbour() {return neighbour;}
     void Informacje() {
         cout<<"x = "<<x<<endl;

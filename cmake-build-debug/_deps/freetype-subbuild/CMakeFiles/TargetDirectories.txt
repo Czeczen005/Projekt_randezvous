@@ -1,3 +1,3 @@
-/Users/patrykzinowkin/Desktop/projekt_rendezvous/cmake-build-debug/_deps/freetype-subbuild/CMakeFiles/freetype-populate.dir
-/Users/patrykzinowkin/Desktop/projekt_rendezvous/cmake-build-debug/_deps/freetype-subbuild/CMakeFiles/edit_cache.dir
-/Users/patrykzinowkin/Desktop/projekt_rendezvous/cmake-build-debug/_deps/freetype-subbuild/CMakeFiles/rebuild_cache.dir
+C:/Users/patry/Desktop/Projekt randezvous/Projekt_randezvous/cmake-build-debug/_deps/freetype-subbuild/CMakeFiles/freetype-populate.dir
+C:/Users/patry/Desktop/Projekt randezvous/Projekt_randezvous/cmake-build-debug/_deps/freetype-subbuild/CMakeFiles/edit_cache.dir
+C:/Users/patry/Desktop/Projekt randezvous/Projekt_randezvous/cmake-build-debug/_deps/freetype-subbuild/CMakeFiles/rebuild_cache.dir

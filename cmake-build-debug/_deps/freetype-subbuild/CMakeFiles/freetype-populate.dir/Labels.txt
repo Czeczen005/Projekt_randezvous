@@ -1,14 +1,14 @@
 # Target labels
  freetype-populate
 # Source files and their labels
-/Users/patrykzinowkin/Desktop/projekt_rendezvous/cmake-build-debug/_deps/freetype-subbuild/CMakeFiles/freetype-populate
-/Users/patrykzinowkin/Desktop/projekt_rendezvous/cmake-build-debug/_deps/freetype-subbuild/CMakeFiles/freetype-populate.rule
-/Users/patrykzinowkin/Desktop/projekt_rendezvous/cmake-build-debug/_deps/freetype-subbuild/CMakeFiles/freetype-populate-complete.rule
-/Users/patrykzinowkin/Desktop/projekt_rendezvous/cmake-build-debug/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-build.rule
-/Users/patrykzinowkin/Desktop/projekt_rendezvous/cmake-build-debug/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-configure.rule
-/Users/patrykzinowkin/Desktop/projekt_rendezvous/cmake-build-debug/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-download.rule
-/Users/patrykzinowkin/Desktop/projekt_rendezvous/cmake-build-debug/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-install.rule
-/Users/patrykzinowkin/Desktop/projekt_rendezvous/cmake-build-debug/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-mkdir.rule
-/Users/patrykzinowkin/Desktop/projekt_rendezvous/cmake-build-debug/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-patch.rule
-/Users/patrykzinowkin/Desktop/projekt_rendezvous/cmake-build-debug/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-test.rule
-/Users/patrykzinowkin/Desktop/projekt_rendezvous/cmake-build-debug/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-update.rule
+C:/Users/patry/Desktop/Projekt randezvous/Projekt_randezvous/cmake-build-debug/_deps/freetype-subbuild/CMakeFiles/freetype-populate
+C:/Users/patry/Desktop/Projekt randezvous/Projekt_randezvous/cmake-build-debug/_deps/freetype-subbuild/CMakeFiles/freetype-populate.rule
+C:/Users/patry/Desktop/Projekt randezvous/Projekt_randezvous/cmake-build-debug/_deps/freetype-subbuild/CMakeFiles/freetype-populate-complete.rule
+C:/Users/patry/Desktop/Projekt randezvous/Projekt_randezvous/cmake-build-debug/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-build.rule
+C:/Users/patry/Desktop/Projekt randezvous/Projekt_randezvous/cmake-build-debug/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-configure.rule
+C:/Users/patry/Desktop/Projekt randezvous/Projekt_randezvous/cmake-build-debug/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-download.rule
+C:/Users/patry/Desktop/Projekt randezvous/Projekt_randezvous/cmake-build-debug/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-install.rule
+C:/Users/patry/Desktop/Projekt randezvous/Projekt_randezvous/cmake-build-debug/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-mkdir.rule
+C:/Users/patry/Desktop/Projekt randezvous/Projekt_randezvous/cmake-build-debug/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-patch.rule
+C:/Users/patry/Desktop/Projekt randezvous/Projekt_randezvous/cmake-build-debug/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-test.rule
+C:/Users/patry/Desktop/Projekt randezvous/Projekt_randezvous/cmake-build-debug/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-update.rule

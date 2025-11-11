@@ -1,14 +1,14 @@
 # Target labels
  vorbis-populate
 # Source files and their labels
-/Users/patrykzinowkin/Desktop/projekt_rendezvous/cmake-build-debug/_deps/vorbis-subbuild/CMakeFiles/vorbis-populate
-/Users/patrykzinowkin/Desktop/projekt_rendezvous/cmake-build-debug/_deps/vorbis-subbuild/CMakeFiles/vorbis-populate.rule
-/Users/patrykzinowkin/Desktop/projekt_rendezvous/cmake-build-debug/_deps/vorbis-subbuild/CMakeFiles/vorbis-populate-complete.rule
-/Users/patrykzinowkin/Desktop/projekt_rendezvous/cmake-build-debug/_deps/vorbis-subbuild/vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-build.rule
-/Users/patrykzinowkin/Desktop/projekt_rendezvous/cmake-build-debug/_deps/vorbis-subbuild/vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-configure.rule
-/Users/patrykzinowkin/Desktop/projekt_rendezvous/cmake-build-debug/_deps/vorbis-subbuild/vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-download.rule
-/Users/patrykzinowkin/Desktop/projekt_rendezvous/cmake-build-debug/_deps/vorbis-subbuild/vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-install.rule
-/Users/patrykzinowkin/Desktop/projekt_rendezvous/cmake-build-debug/_deps/vorbis-subbuild/vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-mkdir.rule
-/Users/patrykzinowkin/Desktop/projekt_rendezvous/cmake-build-debug/_deps/vorbis-subbuild/vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-patch.rule
-/Users/patrykzinowkin/Desktop/projekt_rendezvous/cmake-build-debug/_deps/vorbis-subbuild/vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-test.rule
-/Users/patrykzinowkin/Desktop/projekt_rendezvous/cmake-build-debug/_deps/vorbis-subbuild/vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-update.rule
+C:/Users/patry/Desktop/Projekt randezvous/Projekt_randezvous/cmake-build-debug/_deps/vorbis-subbuild/CMakeFiles/vorbis-populate
+C:/Users/patry/Desktop/Projekt randezvous/Projekt_randezvous/cmake-build-debug/_deps/vorbis-subbuild/CMakeFiles/vorbis-populate.rule
+C:/Users/patry/Desktop/Projekt randezvous/Projekt_randezvous/cmake-build-debug/_deps/vorbis-subbuild/CMakeFiles/vorbis-populate-complete.rule
+C:/Users/patry/Desktop/Projekt randezvous/Projekt_randezvous/cmake-build-debug/_deps/vorbis-subbuild/vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-build.rule
+C:/Users/patry/Desktop/Projekt randezvous/Projekt_randezvous/cmake-build-debug/_deps/vorbis-subbuild/vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-configure.rule
+C:/Users/patry/Desktop/Projekt randezvous/Projekt_randezvous/cmake-build-debug/_deps/vorbis-subbuild/vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-download.rule
+C:/Users/patry/Desktop/Projekt randezvous/Projekt_randezvous/cmake-build-debug/_deps/vorbis-subbuild/vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-install.rule
+C:/Users/patry/Desktop/Projekt randezvous/Projekt_randezvous/cmake-build-debug/_deps/vorbis-subbuild/vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-mkdir.rule
+C:/Users/patry/Desktop/Projekt randezvous/Projekt_randezvous/cmake-build-debug/_deps/vorbis-subbuild/vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-patch.rule
+C:/Users/patry/Desktop/Projekt randezvous/Projekt_randezvous/cmake-build-debug/_deps/vorbis-subbuild/vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-test.rule
+C:/Users/patry/Desktop/Projekt randezvous/Projekt_randezvous/cmake-build-debug/_deps/vorbis-subbuild/vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-update.rule

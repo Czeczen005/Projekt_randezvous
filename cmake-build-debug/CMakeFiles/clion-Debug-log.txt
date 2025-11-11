@@ -1,7 +1,7 @@
-/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/Applications/CLion.app/Contents/bin/ninja/mac/aarch64/ninja -G Ninja -S /Users/patrykzinowkin/Desktop/projekt_rendezvous -B /Users/patrykzinowkin/Desktop/projekt_rendezvous/cmake-build-debug
+"C:\Program Files\JetBrains\CLion 2025.2.3\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=C:/mingw64/bin/mingw32-make.exe -DCMAKE_C_COMPILER=C:/mingw64/bin/gcc.exe -DCMAKE_CXX_COMPILER=C:/mingw64/bin/g++.exe -G "MinGW Makefiles" -S "C:\Users\patry\Desktop\Projekt randezvous\Projekt_randezvous" -B "C:\Users\patry\Desktop\Projekt randezvous\Projekt_randezvous\cmake-build-debug"
 -- Could NOT find PkgConfig (missing: PKG_CONFIG_EXECUTABLE) 
 -- Configuring libogg 1.3.5
 -- Configuring vorbis 1.3.7
--- Configuring done (2.3s)
--- Generating done (0.0s)
--- Build files have been written to: /Users/patrykzinowkin/Desktop/projekt_rendezvous/cmake-build-debug
+-- Configuring done (6.5s)
+-- Generating done (0.4s)
+-- Build files have been written to: C:/Users/patry/Desktop/Projekt randezvous/Projekt_randezvous/cmake-build-debug
